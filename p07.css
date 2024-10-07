@@ -1,0 +1,22 @@
+
+
+@charset "utf-8";
+
+h1 {
+    text-align:center;
+    color:blue;
+    text-transform: uppercase;
+}
+
+ul{
+    list-style:circle;          
+}
+
+ol{
+    list-style:lower-greek;
+    font-weight:bolder;
+}
+
+dd {
+    word-spacing:10px;
+}
